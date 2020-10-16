@@ -3,14 +3,14 @@ The Cortex Service Request Catalog is a new homepage that can be used in the Cor
 
 It's content is configured by a management flow called CTX-MDS-Service-Request-Catalog-Mgt
 
-##Dependencies
+## Dependencies
 Cortex Version
 This version of the Cortex Service Request Catalog requires Cortex version 7 to be used. For version 6.5 installations please contact Cortex pre-sales.
-###Other module dependencies
+### Other module dependencies
 - Cortex Config Store solution
 - Cortex Material Design Subtasks
 
-###Files
+### Files
 
 This module requires the following files: 
 
@@ -18,8 +18,8 @@ This module requires the following files:
 - [material-dashboard-Cortex.css](https://github.com/IntelligentAutomationCommunity/Cortex-Service-Request-Catalog/blob/main/material-dashboard-Cortex.css)
 - [SQL script](https://github.com/IntelligentAutomationCommunity/Cortex-Service-Request-Catalog/blob/main/CTX-MD-SRC_create_schema.sql)
 
-##Installation
+## Installation
 Details of the installation can be found in the [Cortex Service Request Catalog - Deployment Plan](https://github.com/IntelligentAutomationCommunity/Cortex-Service-Request-Catalog/blob/main/Cortex%20Service%20Request%20Catalog%20-%20Deployment%20Plan.pdf)
 
-##How to use
+## How to use
 A [User Guide](https://github.com/IntelligentAutomationCommunity/Cortex-Service-Request-Catalog/blob/main/Cortex%20Service%20Request%20Catalog%20-%20User%20Guide.pdf) has been provided with instruction on how to use the flows.
